@@ -31,13 +31,6 @@ This website is designed to showcase professional makeup services, portfolio wor
 - 📞 Easy contact & booking options  
 - 📱 Mobile-friendly layout  
 
----
 
-## 🖼️ Portfolio Preview
 
-*(Add your images here later)*
 
-```html
-<!-- Example -->
-<img src="images/makeup1.jpg" width="300"/>
-<img src="images/makeup2.jpg" width="300"/>
